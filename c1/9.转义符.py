@@ -7,3 +7,7 @@ s2 = '\n' + s1
 print(s2)
 s3 = r"'\n' + s1"  # 都不转义
 print(s3)
+
+print('\'')
+print('\"')
+print('\\')
